@@ -1,0 +1,13 @@
+/* HOJA DE ESTILO PERSONALIZADA */
+/* HOJA DE STILO EN CASCADA */
+
+/* SELECTOR DE ETIQUETA */
+    body {
+        background-color: #845EC2;
+        color: #C4FCEF;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    main{
+        text-align: center;
+    }
